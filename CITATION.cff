@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Rural Parcel Delivery by Drone
+message: >-
+  Please refer to the manuscript of the same title for
+  details on how the instances in this repository were
+  generated.
+type: dataset
+authors:
+  - given-names: Amro
+    name-particle: M
+    family-names: El-Adle
+    email: aeladle@odu.edu
+    orcid: 'https://orcid.org/0000-0002-8492-5267'
+  - given-names: Ahmed
+    family-names: Ghoniem
+    orcid: 'https://orcid.org/0000-0001-8326-1916'
+    email: aghoniem@isenberg.umass.edu
+  - given-names: Mohamed
+    family-names: Haouari
+    email: mohamed.haouari@qu.edu.qa
+    orcid: 'https://orcid.org/0000-0003-0767-8220'
+  - given-names: Yin-Hsuen
+    family-names: Chen
+    email: y3chen@odu.edu
+    orcid: 'https://orcid.org/0000-0003-4809-5718'
+repository-code: >-
+  https://github.com/Ways-4-Drones/Rural-Parcel-Delivery-by-Drone.git
