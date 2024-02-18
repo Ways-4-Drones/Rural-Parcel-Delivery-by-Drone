@@ -1,5 +1,4 @@
 # Rural-Parcel-Delivery-by-Drone
-Temporarily Private
 The two directories each contain a series of files related to each Area of Interest (AOI). For each AOIs, the following files are enclosed: 
 1. Customer Network: information on customer geospatial coordinates and the length of the private driveway for that customer
 2. Instances: the set of customers associated with each of the 20 instances for that AOI
