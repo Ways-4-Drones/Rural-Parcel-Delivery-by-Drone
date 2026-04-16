@@ -1,4 +1,4 @@
-# Rural Drone Delivery Optimization
+# Rural Delivery by Vehicle-Ported Drone
 
 ## Problem Description
 Vehicle routing with drone-assisted delivery for rural last-mile logistics. A delivery vehicle collaborates with a drone to serve customers in rural areas. The drone can launch from and be retrieved at discretized points along the vehicle's route on secondary roads, enabling parallel service while the vehicle continues its route.
