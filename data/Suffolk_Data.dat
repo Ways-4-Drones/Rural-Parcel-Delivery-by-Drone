@@ -27,7 +27,7 @@ let vehicleSpeed[2] := 2200;             # Secondary road speed (ft/min)
 let vehicleSpeed[3] := 880;              # Private road speed (ft/min)
 
 # Algorithm parameters
-let StepSize := 84;                      # Discretization step for launch/retrieval points (feet)
+let StepSize := 105;   # production step size 
 
 # ============================================
 # NETWORK SIZE
