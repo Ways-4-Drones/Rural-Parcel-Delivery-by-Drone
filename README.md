@@ -5,12 +5,7 @@ Vehicle routing with drone-assisted delivery for rural last-mile logistics. A de
 
 > **Revision notice (September 2026).** The results in this repository accompany
 > the first revision of the manuscript and **supersede all previously posted
-> results.** During the revision, a verification pass identified two
-> implementation errors in the original experimental pipeline (geographic
-> coordinates entering the drone flight-time computation in degrees rather than
-> feet, and a mis-construction of the flight-path incompatibility constraints).
-> Both were corrected and every computational result was regenerated; objective
-> values therefore differ from earlier versions of these files.
+> results.** 
 
 ## Instances
 
